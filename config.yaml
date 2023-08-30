@@ -1,0 +1,9 @@
+version: '1.3'
+upscale: 2
+bg_upsampler: 'realesrgan'
+bg_tile: 400
+suffix: 'none'
+only_center_face: '1' # 1 for true
+aligned: '1' # 1 for true
+ext: 'auto' # auto | jpg | png
+weight: 0.5
